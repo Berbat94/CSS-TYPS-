@@ -1,5 +1,4 @@
 ﻿
-1. flexbox(jednak razmak između elemenata)
-
+1. flexbox(jednak razmak između elemenata, moze da se koristi i za bootstrap)
 	justify-content : space-between;
 2. 
