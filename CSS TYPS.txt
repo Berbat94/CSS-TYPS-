@@ -1,0 +1,5 @@
+﻿
+1. flexbox(jednak razmak između elemenata)
+
+	justify-content : space-between;
+2. 
